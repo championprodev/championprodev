@@ -52,5 +52,7 @@ If you have a manual bottleneck that needs automating or you need to eliminate a
 - 🛠️ [Explore My Services & Solutions](https://championprodev.netlify.app/services)
 - 📝 [Review My Professional CV](https://championprodev.netlify.app/cv)
 - 🤝 [Start a Project Conversation](https://github.com/championprodev)
-- 📝 [Review My Professional CV](https://championprodev.netlify.app/cv)
-- 🤝 [Start a Project Conversation](https://github.com)
+
+
+
+
