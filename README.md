@@ -51,5 +51,7 @@ I am driven by a passion to build practical solutions, explore technical challen
 - 🛠️ [Explore My Services & Solutions](https://championprodev.netlify.app/services)
 - 📝 [Review My Professional CV](https://championprodev.netlify.app/cv)
 - 🤝 [Start a Project Conversation](https://github.com/championprodev)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/abubakarisah-dev)
+- 🐦 [Follow on Twitter / X](https://x.com/championprodev)
 
 
